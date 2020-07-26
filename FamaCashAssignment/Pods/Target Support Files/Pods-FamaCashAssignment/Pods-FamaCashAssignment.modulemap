@@ -1,0 +1,6 @@
+framework module Pods_FamaCashAssignment {
+  umbrella header "Pods-FamaCashAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
